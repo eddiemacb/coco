@@ -1,0 +1,4 @@
+ignore the following files
+
+#ignore target, it contains the build
+/target
