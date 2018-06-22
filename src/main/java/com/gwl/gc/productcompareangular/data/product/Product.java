@@ -17,7 +17,7 @@ public class Product {
 
 	private String imageUrl;
 
-	private int price;
+	private float price;
 
 	private List<Color> colors;
 
